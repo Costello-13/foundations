@@ -7,3 +7,28 @@
     text-align: center;
 
 }
+
+.odd {
+    background-color: #FF5733;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+.even {
+
+}
+
+#nr2 {
+    color: #3377FF;
+    font-size: 36px;
+}
+
+#nr4 {
+    background-color: #99FF33;
+    font-weight: bold;
+    font-size: 24px;
+}
+
